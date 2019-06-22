@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "^8.0.2",
     "@angular/router": "^8.0.2",
     "@ionic-native/core": "^5.0.0",
+    "@ionic/angular": "^4.6.0-dev.201906192117.6727cfc",
     "cordova-ios": "^4.5.5",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-ionic-keyboard": "^2.1.3",
